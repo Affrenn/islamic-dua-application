@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f5f1e8;
+    margin: 0;
+    padding: 30px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.container {
+    max-width: 800px;
+    margin: auto;
+}
+
+.dua-card {
+    background: white;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 10px;
+}
+
+.dua-card h2 {
+    margin-top: 0;
+}
